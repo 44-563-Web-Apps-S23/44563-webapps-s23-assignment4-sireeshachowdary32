@@ -1,22 +1,45 @@
 .speech{
     font-size: 20px;
-    color:rgb(73, 60, 175);
+    color:rgb(12, 12, 14);
 }
 .direction{
     font-size: 30px;
-    color:rgb(0, 0, 0);
+    color:black;
+    background-color: beige;
+
 }
 .direction:hover{
 font-size:medium;
 color:brown;
+background-color: rgb(120, 120, 14);
+
 }
     .Y{
-        font-size: 40px;
+        font-size: 20px;
 color:rgb(255, 127, 197);   
+ }
+ .x{
+    font-size: 20px;
+    color:rgb(32, 169, 167);   
+     
  }
 .MRS{
     font-size: 20px;
     color:blue;
 
 }
+table, th, td {
+    border: 5px solid;
+    width: 50%;
+    color: black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px;
+    margin: 25px;
+  }
+  tr:nth-child(odd) {
+    background-color: #e3d9d9;
+  }
+  
+
 
