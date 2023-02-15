@@ -1,0 +1,22 @@
+.speech{
+    font-size: 20px;
+    color:rgb(73, 60, 175);
+}
+.direction{
+    font-size: 30px;
+    color:rgb(0, 0, 0);
+}
+.direction:hover{
+font-size:medium;
+color:brown;
+}
+    .Y{
+        font-size: 40px;
+color:rgb(255, 127, 197);   
+ }
+.MRS{
+    font-size: 20px;
+    color:blue;
+
+}
+
