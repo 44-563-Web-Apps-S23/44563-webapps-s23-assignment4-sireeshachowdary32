@@ -40,6 +40,23 @@ table, th, td {
   tr:nth-child(odd) {
     background-color: #e3d9d9;
   }
+  .x:hover{
+    color:coral;
+    border:solid 3px bisque;
+    text-shadow: 3px 4px 5px; 
+  }
+  .MRS:hover{
+    color:blue;
+    border:solid 3px burlywood;
+    text-shadow: 3px 4px 5px ;
+  }
+  .Y:hover{
+    color:coral;
+    border:solid 3px bisque;
+    text-shadow: 3px 4px 5px; 
+  }
+
+
   
 
 
