@@ -1,0 +1,5 @@
+pip install tensorflow
+pip install keras
+pip install numpy
+//to  run source  code
+python main.py
